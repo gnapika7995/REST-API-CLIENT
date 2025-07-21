@@ -1,16 +1,16 @@
 # REST-API-CLIENT
 
-*COMPANY NAME*: CODETECH IT SOLUTIONS
+* COMPANY NAME*: CODETECH IT SOLUTIONS
 
-*NAME*: GNAPIKA VELISOJU
+* NAME*: GNAPIKA VELISOJU
 
-*INTERN ID*: CITS0D362
+* INTERN ID*: CITS0D362
 
-*DOMAIN*: JAVA
+* DOMAIN*: JAVA
 
-*DURATION*: 6 WEEKS
+* DURATION*: 6 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+* MENTOR*: NEELA SANTOSH
 
 *Here is a brief description about Rest API Client Application
 
@@ -31,6 +31,8 @@ Software like Postman and Insomnia are devoted REST API consumers that offer gra
 In short, a REST API client is necessary to communicate with RESTful services. It hides away the nuances of HTTP communication so that applications can retrieve remote data and execute operations via well-defined APIs. With standard protocol and data format support, REST API clients promote integration across different systems and platforms.
 
 OUTPUT :
+
+<img width="470" height="184" alt="Image" src="https://github.com/user-attachments/assets/7bcccac4-a6cc-48bd-9f0c-0d201eb7428a" />
 
 
 
