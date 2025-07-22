@@ -32,6 +32,8 @@ In short, a REST API client is necessary to communicate with RESTful services. I
 
 OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/feb3ddab-44fb-4ed7-b4f9-406b541c2091)
+
 
 
 
