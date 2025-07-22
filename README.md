@@ -32,7 +32,7 @@ In short, a REST API client is necessary to communicate with RESTful services. I
 
 OUTPUT :
 
-<img width="470" height="184" alt="Image" src="https://github.com/user-attachments/assets/7bcccac4-a6cc-48bd-9f0c-0d201eb7428a" />
+
 
 
 
