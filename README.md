@@ -12,7 +12,7 @@
 
 * MENTOR*: NEELA SANTOSH
 
-*Here is a brief description about Rest API Client Application :
+HERE IS A BRIEF DESCRIPTION ABOUT THE REST-API-CLIENT APPLICATION :
 
 A REST API client is an application or software component that communicates with a RESTful web service by sending HTTP requests and receiving HTTP responses. REST, Representational State Transfer, is an architectural style employed in designing networked applications. A REST Application Programming Interface (API) makes a collection of endpoints, usually using standard HTTP methods like GET, POST, PUT, DELETE, and PATCH, available for clients to read and modify resources stored on the remote server.
 
